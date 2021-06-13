@@ -1,0 +1,4 @@
+2.0,null,Thin Out Top,Low Skin Fade,null,null,null,null,Requested Line Up,5/19/2021,42 min - 75 min,$20.0,7f2522f4-19c3-4d85-adfb-1a950a44575a,
+null,Buzz Cut,null,null,Low Taper,3.0 to 1.0,Requested Design,null,null,5/19/2021,30 min - 65 min,$20.0 - $30.0,7f2522f4-19c3-4d85-adfb-1a950a44575a,
+4.0,null,null,Mid Fade,null,3.0 to 1.0,null,Requested Beard Work,null,5/29/2021,35 min - 65 min,$20.0 - $25.0,7f2522f4-19c3-4d85-adfb-1a950a44575a,
+0.5,null,null,Low Skin Fade,null,null,null,null,Requested Line Up,5/27/2021,37 min - 65 min,$20.0,c32dc2f6-dab9-43e1-b671-f9133e575567,
