@@ -6,12 +6,12 @@
 
 <p/>
 
+---
  The following application simulates the process of users booking haircutting services with a barber shop.
  It consists of creating or logging into an account, booking an appointment by selecting the styles they want done,
  calculating the cost and time for the haircut, and viewing previous appointments.
  This information is saved and written to text files as a local database.
-
----
+ 
 # Images 📷
 ###### Login Screen
 ![login](https://user-images.githubusercontent.com/76707560/121822155-86332d80-cc6b-11eb-85ef-ed608b5ed248.png)
