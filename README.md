@@ -1,13 +1,13 @@
 <h1 align="center">Book With Me</h1>
 <p align="center">
-  <b>Barber Booking Application - Brandon Vo </b><br>
+  <b>Barber Booking Application</b><br>
   <br>
   <img src="https://images.vexels.com/media/users/3/216022/isolated/preview/c2888c116bf8872ce9957fa51caeb6fe-barber-shop-badge-by-vexels.png" width="75" height="75">
 
 <p/>
 
 ---
- The following application simulates the process of users booking haircutting services with a barber shop.
+ The following application simulates the process of users booking haircutting services with my barber shop.
  It consists of creating or logging into an account, booking an appointment by selecting the styles they want done,
  calculating the cost and time for the haircut, and viewing previous appointments.
  This information is saved and written to text files as a local database.
