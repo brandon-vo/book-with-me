@@ -3,6 +3,8 @@
   <b>Barber Booking Application</b><br>
 <p/>
 
+![bookwithme](https://user-images.githubusercontent.com/76707560/164144427-82d39406-15f9-4edf-9e99-902d140b0532.jpg)
+
 ---
  The following application simulates the process of users booking haircutting services with my barber shop.
  It consists of creating or logging into an account, booking an appointment by selecting the styles they want done,
